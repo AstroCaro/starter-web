@@ -9,6 +9,5 @@ More text here;
 ## Deployment
 
 ## How to contribute
-making some changes
-
+Please fork this repository and then issue Pull Requests for review
 2022 Copyright
