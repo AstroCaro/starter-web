@@ -10,3 +10,5 @@ More text here;
 
 ## How to contribute
 making some changes
+
+2022 Copyright
