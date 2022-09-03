@@ -1,7 +1,6 @@
 # Starter Web Project
 Adding a line for rebasing example.
-New changes. More changes on feature branch
-
+New changes. Updating for emergency fix after stashing
 ## Introduction
 Another modification
 
