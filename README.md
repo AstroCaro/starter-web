@@ -1,6 +1,6 @@
 # Starter Web Project
 Adding a line for rebasing example.
-New changes
+New changes. More changes on feature branch
 
 ## Introduction
 Another modification
