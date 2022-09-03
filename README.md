@@ -1,5 +1,6 @@
 # Starter Web Project
 Adding a line for rebasing example.
+New changes
 
 ## Introduction
 Another modification
